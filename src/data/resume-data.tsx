@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Detail-oriented Developer dedicated to building high-quality products.",
   summary:
-    "As a Developer, I excel at transforming ideas into successful product launches. I thrive in leading teams and fostering environments where everyone can achieve their best. My current expertise includes TypeScript, React, Next.js, and Go. Additionally, I have extensive experience working remotely with companies across the globe.",
+    "As a Developer, I excel at transforming ideas into successful product launches. My current expertise includes TypeScript, React, Next.js, and Go. Additionally, I have extensive experience working remotely with companies across the globe.",
   avatarUrl: "https://avatars.githubusercontent.com/u/64324524",
   personalWebsiteUrl: "https://jyotirmoy.dev",
   contact: {
