@@ -32,7 +32,7 @@ export const RESUME_DATA = {
   personalWebsiteUrl: "https://jyotirmoy.dev",
   contact: {
     email: "jyotirmoydotdev@gmail.com",
-    tel: "+918798162808",
+    tel: null,
     social: [
       {
         name: "GitHub",
@@ -102,7 +102,6 @@ export const RESUME_DATA = {
     {
       title: "Openfy",
       techStack: [
-        "Backend Developer",
         "Golang",
         "Gin",
         "Pocketbase",
@@ -115,5 +114,35 @@ export const RESUME_DATA = {
         href: "https://github.com/jyotirmoydotdev/Openfy",
       },
     },
+    {
+      title: "Blog-App",
+      techStack: [
+        "Next.js",
+        "MongoDB",
+        "Vercel",
+      ],
+      description:
+        "Blog application built with Next.js and MongoDB. The app includes a dashboard for managing posts and viewing a list of subscribers.",
+      logo: "",
+      link: {
+        label: "github.com",
+        href: "https://github.com/jyotirmoydotdev/blog-app",
+      },
+    },
+    {
+      title: "Ethereum-Reader",
+      techStack: [
+        "React.js",
+        "Tailwind",
+        "",
+      ],
+      description:
+        "This project provides a user-friendly website to access and analyze the latest block data and transaction information from the Ethereum mainnet.",
+      logo: "",
+      link: {
+        label: "github.com",
+        href: "https://github.com/jyotirmoydotdev/ethereum-reader",
+      },
+    }
   ],
 } as const;
