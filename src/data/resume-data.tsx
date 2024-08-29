@@ -1,22 +1,3 @@
-import {
-  AmbitLogo,
-  BarepapersLogo,
-  BimLogo,
-  CDGOLogo,
-  ClevertechLogo,
-  ConsultlyLogo,
-  EvercastLogo,
-  Howdy,
-  JarockiMeLogo,
-  JojoMobileLogo,
-  Minimal,
-  MobileVikingsLogo,
-  MonitoLogo,
-  NSNLogo,
-  ParabolLogo,
-  TastyCloudLogo,
-  YearProgressLogo,
-} from "@/images/logos";
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
@@ -28,7 +9,7 @@ export const RESUME_DATA = {
     "Detail-oriented Developer dedicated to building high-quality products.",
   summary:
     "As a Developer, I excel at transforming ideas into successful product launches. My current expertise includes TypeScript, React, Next.js, and Go. Additionally, I have extensive experience working remotely with companies across the globe.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/64324524",
+  avatarUrl: "/avatar.webp",
   personalWebsiteUrl: "https://jyotirmoy.dev",
   contact: {
     email: "jyotirmoydotdev@gmail.com",
@@ -54,15 +35,15 @@ export const RESUME_DATA = {
   education: [
     {
       school: "Chandigarh University",
-      degree: "Bachelor of Computer Applications",
-      start: "2021",
-      end: "2024",
+      degree: "7.23 CGPA | Bachelor of Computer Applications",
+      start: "Jul 2021",
+      end: "Jun 2024",
     },
     {
       school: "Kendriya Vidyalaya Tura",
-      degree: "science stream, HHLC",
-      start: "2020",
-      end: "2021",
+      degree: "75 Percent | Science stream, HHLC",
+      start: "Apr 2020",
+      end: "Feb 2021",
     },
   ],
   work: [
@@ -130,18 +111,18 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Ethereum-Reader",
+      title: "Meghalaya",
       techStack: [
         "React.js",
         "Tailwind",
-        "",
+        "Next.js",
       ],
       description:
-        "This project provides a user-friendly website to access and analyze the latest block data and transaction information from the Ethereum mainnet.",
+        "Meghalaya is a website I created to showcase the rich culture and natural beauty of my homeland to the world, inviting everyone to witness its splendor firsthand.",
       logo: "",
       link: {
         label: "github.com",
-        href: "https://github.com/jyotirmoydotdev/ethereum-reader",
+        href: "https://github.com/jyotirmoydotdev/meghalaya",
       },
     }
   ],

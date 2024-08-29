@@ -6,7 +6,6 @@ import CDGOLogo from "./cdgo.png";
 import ClevertechLogo from "./clevertech.png";
 import EvercastLogo from "./evercast.svg";
 import Howdy from "./howdy.png";
-import JarockiMeLogo from "./jarocki.svg";
 import JojoMobileLogo from "./jojomobile.png";
 import MonitoLogo from "./monito.svg";
 import MobileVikingsLogo from "./mv.png";
@@ -15,6 +14,7 @@ import ParabolLogo from "./parabol.svg";
 import TastyCloudLogo from "./tastycloud.png";
 import YearProgressLogo from "./yearprogress.svg";
 import Minimal from "./minimal.svg";
+import Avatar from "./avatar.webp";
 
 export {
   ConsultlyLogo,
@@ -25,7 +25,6 @@ export {
   ClevertechLogo,
   EvercastLogo,
   Howdy,
-  JarockiMeLogo,
   JojoMobileLogo,
   MonitoLogo,
   MobileVikingsLogo,
@@ -34,4 +33,5 @@ export {
   TastyCloudLogo,
   YearProgressLogo,
   Minimal,
+  Avatar,
 };
